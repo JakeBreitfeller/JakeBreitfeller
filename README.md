@@ -2,7 +2,7 @@ JakeBreitfeller jakebreitfeller@optonline.net
 
 Software Developer
 
-Computer Science Student @Montclair State University
+Computer Science Graduate @Montclair State University (Bachelors)
 
 Skills/Experience
 -C
@@ -14,3 +14,4 @@ Skills/Experience
 -JavaScript/TypeScript
 -Angular
 -SQL
+-PHP
