@@ -1,6 +1,6 @@
 JakeBreitfeller jakebreitfeller@optonline.net
 
-Software Developer
+Applications Developer @UPS
 
 Computer Science Graduate @Montclair State University (Bachelors)
 
