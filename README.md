@@ -15,3 +15,7 @@ Skills/Experience
 -Angular
 -SQL
 -PHP
+-Docker
+-Kubernetes
+-OpenShift
+-Linux/Unix
