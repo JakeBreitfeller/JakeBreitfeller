@@ -1,21 +1,19 @@
-JakeBreitfeller jakebreitfeller@optonline.net
+JakeBreitfeller
 
 Sr. Systems Programming Analyst @UPS
 
 Computer Science Graduate @Montclair State University (Bachelors)
 
-Skills/Experience
+Skills
 -C
--C++
--C#
 -Java
 -Python
+-Ruby
 -HTML/CSS
--JavaScript/TypeScript
--Angular
--SQL
 -PHP
+-SQL
+-Linux/Unix
+-Ansible
 -Docker
 -Kubernetes
 -OpenShift
--Linux/Unix
