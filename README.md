@@ -12,7 +12,7 @@ Skills
 -HTML/CSS
 -PHP
 -SQL
--Linux/Unix
+-GNU/Linux
 -Ansible
 -Docker
 -Kubernetes
